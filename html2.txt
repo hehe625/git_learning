@@ -3,4 +3,5 @@ config
 w!
 add git command add
 add commit
+add commit
 
