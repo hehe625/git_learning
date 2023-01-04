@@ -1,4 +1,5 @@
-asasdkak
+
+fast-forward
 config
 w!
 add git command add
